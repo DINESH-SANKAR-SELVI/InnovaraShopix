@@ -1,8 +1,14 @@
-# React + Vite
+Packages
+    * gh-pages (npm install gh-pages --save-dev)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+    <!-- * npm install vite-plugin-pwa --save-dev -->
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Product Website/Web Application
+
+Home Page: Introduction to the product, key features, and benefits.
+Features: Detailed descriptions of product features.
+Pricing: Pricing plans and options.
+Testimonials/Case Studies: Customer reviews and success stories.
+FAQ: Common questions and answers about the product.
+Support: Help center or support contact information.
