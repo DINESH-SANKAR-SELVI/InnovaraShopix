@@ -1,0 +1,18 @@
+/* src/components/Features.css */
+#features {
+  background-color: #e9ecef;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+#features h2 {
+  margin-bottom: 20px;
+}
+
+#features ul {
+  padding-left: 20px;
+}
+
+#features li {
+  margin-bottom: 10px;
+}

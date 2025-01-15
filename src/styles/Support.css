@@ -1,0 +1,14 @@
+/* src/components/Support.css */
+#support {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+#support a {
+  color: #007bff;
+}
+
+#support a:hover {
+  text-decoration: underline;
+}
