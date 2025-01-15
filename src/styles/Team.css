@@ -1,0 +1,23 @@
+/* Team.css */
+
+.team {
+    padding: 40px;
+    background-color: #fff;
+}
+
+.team-list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.member {
+    text-align: center;
+    margin: 20px;
+}
+
+.member img {
+    width: 100px;
+    height: auto;
+    border-radius: 50%;
+}

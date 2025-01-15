@@ -1,0 +1,23 @@
+/* Blog.css */
+
+.blog {
+    padding: 40px;
+    background-color: #f9f9f9;
+}
+
+.blog .post {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.blog button {
+    padding: 10px 15px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
